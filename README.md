@@ -2,10 +2,10 @@
 
 This repository presents a comprehensive machine learning pipeline developed to predict the presence of heart disease in patients based on a variety of clinical features. The project includes data preprocessing, model building, performance evaluation, and model serialization, making it a full end-to-end solution for binary classification in the medical domain.
 
-🧠 Project Objective
+🧠 **Project Objective**
 Cardiovascular diseases are one of the leading causes of death globally. Early diagnosis can significantly improve a patient’s chance of survival. This project aims to build a reliable machine learning model that can predict the presence of heart disease based on input features such as age, cholesterol level, chest pain type, and more.
 
-📂 Contents
+📂 **Contents**
 HeartDisease.ipynb – Jupyter Notebook containing the complete workflow.
 
 models/ (optional) – Folder to store serialized trained models using joblib.
@@ -14,7 +14,7 @@ README.md – Project documentation.
 
 requirements.txt – List of all required Python libraries (available upon request).
 
-📊 Dataset Description
+📊 **Dataset Description**
 The dataset used in this project contains several health-related features such as:
 
 Age
@@ -47,7 +47,7 @@ Target (presence or absence of heart disease)
 
 ⚠️ The target variable is binary (1: presence of heart disease, 0: absence).
 
-⚙️ Workflow Summary
+⚙️ **Workflow Summary**
 1. Data Preprocessing
 Handling missing values (if any)
 
@@ -85,7 +85,7 @@ Feature importance plots for interpretability
 5. Model Saving
 Best-performing models are saved using joblib for future deployment.
 
-📌 Technologies & Libraries Used
+📌 **Technologies & Libraries Used**
 Languages: Python 3.x
 
 Libraries:
