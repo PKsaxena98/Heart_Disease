@@ -1,3 +1,5 @@
+## Heart Disease Prediction Using Machine Learning
+
 This repository presents a comprehensive machine learning pipeline developed to predict the presence of heart disease in patients based on a variety of clinical features. The project includes data preprocessing, model building, performance evaluation, and model serialization, making it a full end-to-end solution for binary classification in the medical domain.
 
 🧠 Project Objective
